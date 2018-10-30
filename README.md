@@ -16,3 +16,11 @@ RRT-star algorithm as proposed by Karaman and Frazzoli.
 <p align="center"> 
 <img src="https://github.com/urban-eriksson/RRT-RRTstar/blob/master/images/RRT_star.PNG">
 </p>
+
+## RRT-u ##
+
+Kinodynamic RRT
+
+<p align="center"> 
+<img src="https://github.com/urban-eriksson/RRT-RRTstar/blob/master/images/RRT_star.PNG">
+</p>
