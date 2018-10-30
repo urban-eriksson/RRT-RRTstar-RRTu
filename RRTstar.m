@@ -31,12 +31,6 @@ function RRTstar()
     plot(xgoal,ygoal,'.g','markersize',24,'color',[0 0.8 0]) % goal marker
     plot([0.4 0.6 0.6 0.4 0.4],[0.4 0.4 0.6 0.6 0.4],'linewidth',2,'color','k') % obstacle
 
-
-    %viscircles(gca,[xgoal ygoal],goalr,'color',[0 0.0 0],'linestyle','-','linewidth',2)
-    %viscircles(gca,[xgoal ygoal],goalr,'color',[0 0.9 0],'linestyle','-','linewidth',1.5)
-
-
-
     delay = 0.4;
 
     max_iter = 1000;
