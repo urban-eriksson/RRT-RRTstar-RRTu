@@ -1,4 +1,4 @@
-# RRT-RRTstar
+# RRT, RRTstar and RRT-u
 Animations for showing how RRT and RRT-star works
 
 ## RRT ##
