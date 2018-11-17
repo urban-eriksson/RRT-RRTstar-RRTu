@@ -1,5 +1,5 @@
-# RRT, RRTstar and RRT-u
-Animations for showing how RRT and RRT-star works
+# RRT, RRT-star, and RRT-u
+Animations for showing how RRT, RRT-star, and RRT-u works
 
 ## RRT ##
 
